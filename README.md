@@ -1,1 +1,1 @@
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AkhasaDyst&count_private=true&show_icons=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkhasaDyst&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
